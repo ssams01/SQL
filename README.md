@@ -1,4 +1,4 @@
-# Python
+# SQL
 
 
-This repository is dedicated to projects completed utilizing the Python programming language.
+This repository is dedicated to projects completed utilizing the SQL programming language.
