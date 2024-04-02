@@ -1,4 +1,2 @@
 # SQL
-
-
-This repository is dedicated to projects completed utilizing the SQL programming language.
+This is just a repository that includes example Database's I created for either a school or personal project
